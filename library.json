@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-bmm150-geomagnetic-sensor-magnetometer-compass-geomagnetic-sensor",
+  "title": "bmm150-geomagnetic-sensor-magnetometer-compass-geomagnetic-sensor",
+  "keywords": "bmm150-geomagnetic-sensor-magnetometer-compass-geomagnetic-sensor, esp32, esp8266, arduino",
+  "description": "bmm150-geomagnetic-sensor-magnetometer-compass-geomagnetic-sensor plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-bmm150-geomagnetic-sensor-magnetometer-compass-geomagnetic-sensor/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-bmm150-geomagnetic-sensor-magnetometer-compass-geomagnetic-sensor/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
